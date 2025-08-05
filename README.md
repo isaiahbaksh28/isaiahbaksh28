@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & Quant related topics 
 - 🌱 I’m currently learning C/C++, Stochastic Calculus & Machine Learning Algorithms with Python
 - 💞️ I’m looking to collaborate on any machine learning/math modelling related projects!
-- 📫 How to reach me isaiah.baksh@ontariotechu.net
+- 📫 How to reach me isaiah.baksh2001@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The Sopranos is the greatest TV show ever
 
